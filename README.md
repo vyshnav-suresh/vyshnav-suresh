@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a passionate full-stack web developer with extensive experience in building robust and scalable web applications. My expertise lies in both front-end and back-end development, allowing me to handle projects from conception to deployment.<br><br>Over the years, I've honed my skills in Node.js and MongoDB, leveraging these technologies to create efficient server-side applications. On the front-end, I enjoy working with React.js and Next.js, where I can bring user interfaces to life with modern, responsive designs.<br><br>In addition to web development, I have experience with server-side frameworks like NestJS and Flask, which I use to build RESTful APIs and microservices. My approach to development is centered around clean, maintainable code, and I'm always eager to learn new technologies and best practices.<br><br>Whether working on solo projects or collaborating with teams, I bring a strong commitment to quality and a drive to create the best possible user experiences. I'm excited to continue growing as a developer and taking on new challenges in the ever-evolving tech landscape.<br>I'm a full-stack web developer with experience in Node.js and MongoDB. I've worked on various projects using technologies like Next.js, React.js, NestJS, Express.js, and Flask. My passion lies in building scalable and efficient web applications.<br>
 
-
+![Profile View Counter](https://komarev.com/ghpvc/?username=vyshnav-suresh&abbreviated=true)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vyshnav-suresh) 
 
@@ -15,7 +15,7 @@ I'm a passionate full-stack web developer with extensive experience in building 
 ---
 [![](https://visitcount.itsvg.in/api?id=vyshnav-suresh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=your-username&abbreviated=true)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
